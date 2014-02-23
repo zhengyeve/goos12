@@ -3,6 +3,6 @@ Chapter 12 Source code
 
 This repo is eclipse project, and JUnit test can be run in eclispe directly.
 
-Make sure you should install and configrate Openfire first.
+Make sure you have installed and configure Openfire first.
 
 Test platform: Mac OSX 10.9
